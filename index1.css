@@ -1,0 +1,54 @@
+.Main{
+    color: red
+}
+
+.Main2{
+    color: green;
+    font-style: italic
+}
+
+.Main3{
+    font-weight: 700;
+    text-decoration: line-through;
+}
+
+.Main4{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.Main5{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.Main6 {
+    color: red;
+}
+
+.Main7{
+    letter-spacing: 5px;
+    color: brown;
+}
+
+.Main8{
+    color: brown;
+    font-weight: lighter;
+}
+
+.Main9{
+    color: brown;
+    font-size: xx-small;
+}
+
+.Main10{
+    color: brown;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.Main11{
+    background-color: yellow;
+    color: red;
+    text-decoration: none;
+}
